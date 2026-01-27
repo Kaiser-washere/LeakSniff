@@ -174,3 +174,5 @@ Several modules contain errors (especially GitHub and BreachDirectory integratio
 The code is not fully developed and has not been optimized for security or performance.
 It should only be used for learning and testing purposes.
 </h1>
+
+<h1>educational use only</h1>
