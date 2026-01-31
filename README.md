@@ -80,4 +80,3 @@ The code is not fully developed and has not been optimized for security or perfo
 It should only be used for learning and testing purposes.
 </h1>
 
-<h1>educational use only</h1>
